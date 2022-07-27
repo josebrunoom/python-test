@@ -8,6 +8,9 @@ O que será avaliado:
 - Tratamento de erros;
 - Definições de entidades;
 - Resolução do problema;
+- Documentação da solução;
+
+Recomenda-se o uso do framework Django e a construção de uma arquitetura REST.
 
 # Tarefa:
 
