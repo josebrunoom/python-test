@@ -8,13 +8,19 @@ O que será avaliado:
 - Tratamento de erros;
 - Definições de entidades;
 - Resolução do problema;
-- Documentação da solução;
+- Documentação da solução (README.md e Rotas da API);
 
-Recomenda-se o uso do framework Django e a construção de uma arquitetura REST.
+Recomenda-se o uso do framework Django ou Flask e a construção de uma arquitetura REST.
 
 # Tarefa:
 
 Crie um projeto com Python para o cadastro e gerenciamento de usuários.
+
+Esse usuários devem conter os campos: 
+- Nome
+- CPF (login)
+- Senha
+- Role
 
 Esses usuários estarão divididos em dois niveis (roles) :
 
